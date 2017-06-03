@@ -1,4 +1,4 @@
-## Download Videos from Youtube  <img src="https://pbs.twimg.com/media/DBYHGxmU0AIzRl3.png:large" alt="zTuber logo" width=50px height=50px/>
+## Download Videos from Youtube
 
 zTuber is an amazing Android app to stream music and download videos from [Youtube](https://www.youtube.com/) in different formats like 3GP, MP4, M4A and can be converted to MP3 using FFmpeg for free, without limitations.
 
