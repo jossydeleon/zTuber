@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Download Videos from Youtube
 
-You can use the [editor on GitHub](https://github.com/zoedevelopers/zTuber/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+zTuber is an amazing Android app to stream music and download videos from [Youtube](https://www.youtube.com/) in different formats like 3GP, MP4, M4A and can be converted to MP3 using FFmpeg for free, without limitations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| ![Search video](https://raw.githubusercontent.com/zoedevelopers/zTuber/master/images/01.png)     | ![Get Format](https://raw.githubusercontent.com/zoedevelopers/zTuber/master/images/02.png) |
+| ---      | ---       |
+| ![Downloads](https://raw.githubusercontent.com/zoedevelopers/zTuber/master/images/03.png) |   ![View](https://raw.githubusercontent.com/zoedevelopers/zTuber/master/images/05.png)    |
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Stream music from Youtube
 
-```markdown
-Syntax highlighted code block
+With zTuber you can create your own music playlist and listen it every single time without any limitation and subscription.
+You can stream music and use your other apps at the same time without pause your favorite video.
 
-# Header 1
-## Header 2
-### Header 3
+![Stream music](https://raw.githubusercontent.com/zoedevelopers/zTuber/master/images/04.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Convert videos to audio MP3
 
-**Bold** and _Italic_ and `Code` text
+If you already have the video why download the audio file again? zTuber allows to convert your video in your download list to MP3 without download the video again. Try it, it's pretty cool.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Device compatibility
 
-### Jekyll Themes
+zTuber is compatible with Android versions 4.4 (api 19) up to Android N.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zoedevelopers/zTuber/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Download zTuber
+
+Download zTuber apk from [here](https://firebasestorage.googleapis.com/v0/b/ztuber-app.appspot.com/o/zTuber%2Fversion%2F1.0.0-final%2FzTuber-1.0.0-final.apk?alt=media&token=f3a31590-9ba2-4734-a7d5-a7e1e6748af4)
+
+
+### Installing zTuber
+
+zTuber is not on Google Play due to Google’s Policy which prohibits YouTube downloading apps for copyright concern. zTuber is safe, does not have any virus or malware code that can put your device on risk. Thank you for your trust.
+
+When you download the apk go to Settings - Security - Check unknow sources - OK
+After do that, go to your download folder and install the application.
+
+![Installing app](https://raw.githubusercontent.com/zoedevelopers/zTuber/master/images/06.jpg)
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the app? You can email us to zoedevelopers@gmail.com and we’ll help you sort it out.
