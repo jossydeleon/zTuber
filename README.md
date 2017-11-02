@@ -1,6 +1,6 @@
 # ffmpegDroid (FFmpeg library for Android)
 
-This tutorial will show how to compile ffmpeg 3.0 to use the powerful command line tool in any Android application. You can download this app to see how works FFmpeg in android: https://zoedevelopers.github.io/zTuber/
+This tutorial will show how to compile ffmpeg 3.0 to use the powerful command line tool in any Android application. You can download this app to see how works FFmpeg in android: http://ztuber.josymardeleon.com
 
 # Enviroment:
 * Ubuntu 16.04 LTS
